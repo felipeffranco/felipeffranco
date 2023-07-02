@@ -41,7 +41,7 @@ All areas about design and tech (If I know I'll help you or I'll research for an
 
 ### 📊 Stats
 [![Felipe Franco GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeffranco&theme=tokyonight)](https://github.com/felipeffranco/github-readme-stats) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeffranco&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeffranco&size_weight=0.5&count_weight=0.5&theme=tokyonight)
 
 <!--
 **felipeffranco/felipeffranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
