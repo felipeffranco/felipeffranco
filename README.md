@@ -40,7 +40,9 @@ All areas about design and tech (If I know I'll help you or I'll research for an
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white) ![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=flat&logo=HackerEarth&logoColor=Blue) ![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=flat&logo=AngelList&logoColor=black) ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=flat&logo=Freelancer&logoColor=white) ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=flat&logo=indeed&logoColor=white)
 
 ### 📊 Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeffranco&theme=tokyonight)](https://github.com/felipeffranco/github-readme-stats)
+[![Felipe Franco GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeffranco&theme=tokyonight)](https://github.com/felipeffranco/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipeffranco&repo=github-readme-stats)](https://github.com/felipeffranco/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeffranco&size_weight=0.5&count_weight=0.5)
 
 <!--
 **felipeffranco/felipeffranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
