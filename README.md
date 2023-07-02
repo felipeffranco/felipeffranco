@@ -36,6 +36,7 @@ All areas about design and tech (If I know I'll help you or I'll research for an
 ### 💲 Cryptocurrency
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=flat&logo=bitcoin&logoColor=white) ![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=flat&logo=Bitcoin%20Cash&logoColor=white) ![Binance](https://img.shields.io/badge/Binance-FCD535?style=flat&logo=binance&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
 
+### 💼 Work/Jobs
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white) ![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=flat&logo=HackerEarth&logoColor=Blue) ![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=flat&logo=AngelList&logoColor=black) ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=flat&logo=Freelancer&logoColor=white) ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=flat&logo=indeed&logoColor=white)
 
 <!--
