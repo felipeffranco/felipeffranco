@@ -41,7 +41,6 @@ All areas about design and tech (If I know I'll help you or I'll research for an
 
 ### 📊 Stats
 [![Felipe Franco GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeffranco&theme=tokyonight)](https://github.com/felipeffranco/github-readme-stats) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipeffranco&repo=github-readme-stats)](https://github.com/felipeffranco/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeffranco&size_weight=0.5&count_weight=0.5)
 
 <!--
