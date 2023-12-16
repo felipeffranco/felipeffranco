@@ -7,6 +7,12 @@ I enjoy working with ReactJS (Frontend), NodeJS (Backend), and React Native (Mob
 ### 💬 Ask me about ...
 All areas of Design and Software Engineer 
 
+### 📊 Stats
+[![Felipe Franco GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeffranco&theme=tokyonight)](https://github.com/felipeffranco/github-readme-stats) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeffranco&size_weight=0.5&count_weight=0.5&theme=tokyonight)
+
+
 ### 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
@@ -27,11 +33,6 @@ All areas of Design and Software Engineer
 
 ### 💼 Work/Jobs
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white) ![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=flat&logo=HackerEarth&logoColor=Blue) ![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=flat&logo=AngelList&logoColor=black) ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=flat&logo=Freelancer&logoColor=white) ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=flat&logo=indeed&logoColor=white)
-
-### 📊 Stats
-[![Felipe Franco GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeffranco&theme=tokyonight)](https://github.com/felipeffranco/github-readme-stats) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeffranco&size_weight=0.5&count_weight=0.5&theme=tokyonight)
 
 <!--
 **felipeffranco/felipeffranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
