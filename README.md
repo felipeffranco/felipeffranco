@@ -1,8 +1,9 @@
 ### 👋 Hi there
-I'm currently working as a Senior Product Designer at Itaú (BRQ) and studying Software Engineer.
+I'm currently working as a Senior Product Designer at Itaú (BRQ) and I am studying to migrate to become a Software Engineer.
 
-### 🚀 Developer Expertise 
+### 🚀 Developer Experience 
 I enjoy working with ReactJS (Frontend), NodeJS (Backend), and React Native (Mobile).
+https://www.linkedin.com/in/felipeffranco/
 
 ### 💬 Ask me about ...
 All areas of Design and Software Engineer 
