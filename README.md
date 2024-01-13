@@ -3,7 +3,7 @@ I'm Felipe Franco and I'm currently working as a Senior Product Designer at Ita�
 
 ### 🚀 Developer Experience 
 I enjoy working with ReactJS and Angular (Frontend), NodeJS and C# (Backend), and React Native (Mobile).
-(Add me on Linkedin)[https://www.linkedin.com/in/felipeffranco/]
+[Add me on Linkedin](https://www.linkedin.com/in/felipeffranco/)
 
 ### 💬 Ask me about ...
 All areas of Design and Software Development 
