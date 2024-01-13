@@ -1,12 +1,12 @@
 ### 👋 Hi there
-I'm currently working as a Senior Product Designer at Itaú (BRQ) and I am studying to migrate to become a Software Engineer.
+I'm Felipe Franco and I'm currently working as a Senior Product Designer at Itaú (BRQ). I'm studying to migrate to become a Software Engineer.
 
 ### 🚀 Developer Experience 
-I enjoy working with ReactJS (Frontend), NodeJS (Backend), and React Native (Mobile).
-https://www.linkedin.com/in/felipeffranco/
+I enjoy working with ReactJS and Angular (Frontend), NodeJS and C# (Backend), and React Native (Mobile).
+(Add me on Linkedin)[https://www.linkedin.com/in/felipeffranco/]
 
 ### 💬 Ask me about ...
-All areas of Design and Software Engineer 
+All areas of Design and Software Development 
 
 ### 📊 Stats
 [![Felipe Franco GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeffranco&theme=tokyonight)](https://github.com/felipeffranco/github-readme-stats) 
