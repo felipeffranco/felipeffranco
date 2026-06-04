@@ -1,12 +1,27 @@
-### 👋 Hi there
-I'm Felipe Franco and I'm currently working as a Senior Product Designer at Itaú (BRQ). I'm studying to migrate to become a Cybersecurity Red Team Analyst.
+### 👋 Hello everyone
+
+I am a Cybersecurity professional with a multidisciplinary background that combines Cybersecurity, Software Development, and over 18 years of experience in Design and Digital Products. My career has been built at the intersection of technology, security, strategy, and user experience, allowing me to approach challenges with both technical depth and business vision.
+
+My mission is to leverage Offensive Security methodologies, Red Team operations, and Penetration Testing techniques to identify vulnerabilities before attackers do — helping organizations strengthen their defenses, improve cyber resilience, and build more secure digital environments.
+
+I graduated in Cyber Defense from FIAP (2026), strengthening my expertise in Offensive and Defensive security strategies, Threat Analysis, Vulnerability Assessment, and Cyber Resilience. I also completed a postgraduate degree in Information Security and Defensive Intelligence at CeCyber (2026), focused on defensive intelligence, risk mitigation, and security operations. In the same year, I earned the globally recognized CompTIA Security+ certification, validating my knowledge in cybersecurity fundamentals, secure architectures, vulnerability management, and security best practices.
+
+Currently, I focus on Offensive Security, Defensive Security, Pentesting, Threat Analysis, Secure Development, Security Operations, and Risk Management. I am passionate about understanding how systems can be exploited in order to help organizations proactively defend against real-world threats.
+
+Before transitioning into Cybersecurity and Software Engineering, I spent years working with Design, Product Strategy, and Digital Experiences across Financial Services, Technology, Startups, and Credit Bureau environments. This experience gave me a unique perspective on how technology, usability, scalability, and security must work together.
+
+My technical background also includes studies in Computer Science, Web Design, and the Ironhack FullStack Bootcamp, where I developed expertise in MongoDB, Express.js, React.js, and Node.js. My development experience allows me to better understand application security, APIs, authentication flows, cloud environments, and secure software architecture from both attacker and defender perspectives.
+
+I am always open to connecting with professionals, companies, and teams passionate about cybersecurity, offensive security, innovation, and secure digital transformation.
+
+Let’s connect and build secure, resilient, and impactful technology together.
 
 ### 🚀 Developer Experience 
-I worked with ReactJS and Angular (Frontend), NodeJS and C# (Backend), and React Native (Mobile).
-[Add me on Linkedin](https://www.linkedin.com/in/felipeffranco/)
+I work with Javascript and ReactJS in the Frontend, NodeJS in the Backend, and React Native for Mobile experiences.
+[Add me on Linkedin](https://www.linkedin.com/in/felipeferfranco/)
 
 ### 💬 Ask me about ...
-All areas of Design and Cybersecurity
+Offensive and Defensive security strategies, Threat Analysis, Vulnerability Assessment, and Cyber Resilience
 
 ### 📊 Stats
 [![Felipe Franco GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeffranco&theme=tokyonight)](https://github.com/felipeffranco/github-readme-stats) 
@@ -34,18 +49,3 @@ All areas of Design and Cybersecurity
 
 ### 💼 Work/Jobs
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white) ![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=flat&logo=HackerEarth&logoColor=Blue) ![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=flat&logo=AngelList&logoColor=black) ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=flat&logo=Freelancer&logoColor=white) ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=flat&logo=indeed&logoColor=white)
-
-<!--
-**felipeffranco/felipeffranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
