@@ -16,8 +16,7 @@ I am always open to connecting with professionals, companies, and teams passiona
 
 Let’s connect and build secure, resilient, and impactful technology together.
 
-### 🚀 Developer Experience 
-I work with Javascript and ReactJS in the Frontend, NodeJS in the Backend, and React Native for Mobile experiences.
+### 🚀 Connect with me on Linkedin
 [Add me on Linkedin](https://www.linkedin.com/in/felipeferfranco/)
 
 ### 💬 Ask me about ...
