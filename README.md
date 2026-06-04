@@ -1,16 +1,12 @@
 ### 👋 Hello everyone
 
-I am a Cybersecurity professional with a multidisciplinary background that combines Cybersecurity, Software Development, and over 18 years of experience in Design and Digital Products. My career has been built at the intersection of technology, security, strategy, and user experience, allowing me to approach challenges with both technical depth and business vision.
+Cybersecurity professional focused on Offensive Security, Pentesting, Threat Analysis, and Secure Development, with a multidisciplinary background in Software Development, Design, and Digital Products.
 
-My mission is to leverage Offensive Security methodologies, Red Team operations, and Penetration Testing techniques to identify vulnerabilities before attackers do — helping organizations strengthen their defenses, improve cyber resilience, and build more secure digital environments.
+Graduated in Cyber Defense from FIAP and postgraduate in Information Security & Defensive Intelligence at CeCyber, with CompTIA Security+ certification.
 
-I graduated in Cyber Defense from FIAP (2026), strengthening my expertise in Offensive and Defensive security strategies, Threat Analysis, Vulnerability Assessment, and Cyber Resilience. I also completed a postgraduate degree in Information Security and Defensive Intelligence at CeCyber (2026), focused on defensive intelligence, risk mitigation, and security operations. In the same year, I earned the globally recognized CompTIA Security+ certification, validating my knowledge in cybersecurity fundamentals, secure architectures, vulnerability management, and security best practices.
+My experience combines Red Team methodologies, vulnerability assessment, secure architectures, APIs, authentication flows, and cloud security — supported by hands-on development skills with MongoDB, Express.js, React.js, and Node.js.
 
-Currently, I focus on Offensive Security, Defensive Security, Pentesting, Threat Analysis, Secure Development, Security Operations, and Risk Management. I am passionate about understanding how systems can be exploited in order to help organizations proactively defend against real-world threats.
-
-Before transitioning into Cybersecurity and Software Engineering, I spent years working with Design, Product Strategy, and Digital Experiences across Financial Services, Technology, Startups, and Credit Bureau environments. This experience gave me a unique perspective on how technology, usability, scalability, and security must work together.
-
-My technical background also includes studies in Computer Science, Web Design, and the Ironhack FullStack Bootcamp, where I developed expertise in MongoDB, Express.js, React.js, and Node.js. My development experience allows me to better understand application security, APIs, authentication flows, cloud environments, and secure software architecture from both attacker and defender perspectives.
+Passionate about building secure, scalable, and resilient systems while sharing projects, studies, and cybersecurity research through code.
 
 I am always open to connecting with professionals, companies, and teams passionate about cybersecurity, offensive security, innovation, and secure digital transformation.
 
